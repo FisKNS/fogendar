@@ -132,7 +132,7 @@ async function getAllConfigVless(hostName) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Vless | Noir7R | CLoudFlare</title>
+    <title>V2-Fast</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4C+6PCWJ+8zzHcXQjXGp6n5Yh9rX0x5fOdPaOqO+e2X4R5C1aE/BSqPIG+8y3O6APa8w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="https://raw.githubusercontent.com/AFRcloud/BG/main/icons8-film-noir-80.png" type="image/png">
@@ -373,14 +373,12 @@ async function getAllConfigVless(hostName) {
     <div class="overlay"></div>
     <div class="container">
         <div class="header">
-            <h1>ARI ANDIKA KUOTA</h1>
+            <h1>Kaara</h1>
         </div>
         <div class="nav-buttons">
             <button class="button" onclick="showContent('vless')">VERSI VLESS</button>
             <button class="button" onclick="showContent('clash')">VERSI CLASH</button>
         </div>
-        <center><a href="https://wa.link/d982tb" class="button">WHATSAPP</a> <a href="https://m.facebook.com/ariy.tool/" class="button">FACEBOOK</a></center><br>
-        <div class="config-section">
         <strong>LIST WILLCARD : </strong><br>
         <br>
         \u2730 ava.game.naver.com<br>
